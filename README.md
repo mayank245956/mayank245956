@@ -55,20 +55,7 @@ Erlang C Formula → Real-time Metrics → Cost Optimization (Doctor Cost vs. Wa
 [![Live App](https://img.shields.io/badge/🔴_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://hospital-queue-optimizer-7tfvbvffp7efbby6vw5vkb.streamlit.app/)
 `Python` `Streamlit` `Queueing Theory` `Statistics`
 
----
 
-### 🧠 Memory Retention Predictor
-> *Ebbinghaus Forgetting Curve — modeled mathematically*
-
-Implements the **Ebbinghaus Forgetting Curve** to predict memory decay and schedule optimal revision timing using exponential decay mathematics.
-
-```python
-R = e^(-t/S)   # retention | time | strength
-```
-
-`Python` `Statistics` `Math`
-
----
 
 ### 🎲 Distribution Guessing Game
 > *Make probability theory interactive*
@@ -80,19 +67,6 @@ An interactive probability visualization tool that lets users explore and guess 
 
 ---
 
-### 📊 Sales Analytics System
-> *End-to-end data pipeline*
-
-Raw CRM data → feature engineering → interactive charts. Processes thousands of records into actionable business insights.
-
-```
-raw_data → clean → analyse → visualise
-# 3,328 records processed
-```
-
-`Python` `Pandas` `Data Engineering`
-
----
 
 ## 🧰 Tech Stack
 
